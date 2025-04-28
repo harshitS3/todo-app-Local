@@ -41,7 +41,7 @@ const App = () => {
     <div className="min-h-screen bg-[#212121] flex items-center justify-center p-4">
       <div className="bg-[#333] p-6 rounded-xl shadow-lg w-full max-w-lg">
         <h1 className="text-3xl font-bold text-white mb-4 text-center">
-          📝 Todo App-Jenkinks Next
+          📝 Todo App-Jenkinks Dev
         </h1>
         <div className="flex gap-3 mb-5">
           <input
